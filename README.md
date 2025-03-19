@@ -22,3 +22,113 @@ Meteorologista e Cientista de Dados, com graduação (2015) e mestrado (2018) pe
              src="https://img.shields.io/badge/Instagram-Follow-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
 </p>
+
+### 📊📺 ==== LINGUAGENS ==== 💻📚 ###
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="R" 
+    title="R" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Shell Script" 
+    title="Shell Script"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/doodle/512/bash.png" 
+/>
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cnicursos.com.br/wp-content/uploads/2023/12/Power-bi.jpg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://ugc.production.linktr.ee/T1YgVck0Tp68UU3lrlbX_github_Octocat.png?io=true&size=thumbnail-stack-v1_0" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjNzNMC32aTaedQd9pA3RBNTZ6XLZtyiiZs2jM8vyF1U6OoFzwI9lkw4d93FFSNClw8yo&usqp=CAU" 
+/>
+
+<br/>
+<br/>
+
+### 🌍🚀 GEOTECNOLOGIAS 🌍🚀 ###
+
+<img 
+    align="left" 
+    alt="Google Earth Engine" 
+    title="Google Earth Engine"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr9yGcT3lHFPkSYbCRVEZGiRbXSLXqUOUNFOd8sHlNjGztmf_IQ5yuSfWe-x6VwWX8nMw&usqp=CAU" 
+/>
+<img 
+    align="left" 
+    alt="Google Earth Engine" 
+    title="Google Earth Engine"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/2048px-QGIS_logo_new.svg.png" 
+/>
+
+<img 
+    align="left" 
+    alt="Google Earth Engine" 
+    title="Google Earth Engine"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://www.nieuwlandgeo.nl/wp-content/uploads/ArcMapGISPro_m.png" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas ###
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=anselmo2022&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselmo2022&theme=tokyonight&layout=compact&custom_title=GEOTECNOLOGIAS&langs_count=9" 
+  />
