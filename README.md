@@ -2,7 +2,7 @@
 **`Bacharel e Mestre em Meteorologista | Cientista de Dados`**
 **`e-mail: anselmo.santos@recife.pe.gov.br`**
 
-Meteorologista e Cientista de Dados, com graduação (2015) e mestrado (2018) pela UFAL, atua como gestor de Meteorologia no Centro de Operações da Prefeitura do Recife desde 2023. Integrante do LAPIS/UFAL por 8 anos. Possui ampla experiência em previsão de tempo, Sensoriamento Remoto e Geoprocessamento para análise dinâmico-espacial do comportamento da vegetação. Especialista no monitoramento de ciclones tropicais, convecção intensa, seca e desastres naturais. Cientista e Analista de dados como foco para exploração de dados geoespaciais. Domina ferramentas computacionais, com destaque para Python, além de Shell Script e R, aplicados a estudos atmosféricos e ambientais. Lattes: http://lattes.cnpq.br/7854738354307972
+Meteorologista e Cientista de Dados, com graduação (2015) e mestrado (2018) pela UFAL, atua como gestor de Meteorologia no Centro de Operações da Prefeitura do Recife desde 2023. Integrou O Laboratório de Análise e Peocessamento de Imagens de Satélites (LAPIS/UFAL) por 8 anos. Possui ampla experiência em previsão de tempo, Sensoriamento Remoto e Geoprocessamento volta a análise da dinâmica espacial do comportamento da vegetação. Especialista no monitoramento de ciclones tropicais, convecção intensa (overshot tops), seca e desastres naturais. Cientista e Analista de dados como foco para exploração de dados geoespaciais. Domina ferramentas computacionais, com destaque para Python, além de Shell Script e R, aplicados a estudos atmosféricos e ambientais. Lattes: http://lattes.cnpq.br/7854738354307972
 
    <p align="left">
     <a href="http://lattes.cnpq.br/7854738354307972">
