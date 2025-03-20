@@ -22,7 +22,7 @@ Meteorologista e Cientista de Dados, com graduação (2015) e mestrado (2018) pe
     </a>
 </p>
 
-### 📊📺 ==== LINGUAGENS ==== 💻📚 ###
+### 📊📺 ==== LINGUAGENS E FERRAMENTAS COMPUTACIONAIS ==== 💻📚 ###
 
 <img 
     align="left" 
